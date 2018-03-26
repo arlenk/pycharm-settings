@@ -1,0 +1,40 @@
+<scheme name="Darcula (ak)" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="1f2123" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="cc0000" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="cc0000" />
+      </value>
+    </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9c023" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
