@@ -61,6 +61,9 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
